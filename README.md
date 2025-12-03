@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yusuf
 
-### 🤖 Robotics · Embedded Systems · Autonomous Vehicles Developer
+### 🤖  Robotics Software · Autonomous Vehicles Developer · Embedded Systems 
 
 I build real-time robotic systems, autonomous vehicles, and embedded software.  
 Focused on **C++**, **Python**, and **ROS2**.
